@@ -1,2 +1,8 @@
-# B360-i3-9100f-gtx-1060-High-sierra-hackintosh
-10.13.6 Hackintosh
+Specs:
+MSI B360 Gaming plus
+I3-9100F
+MSI GTX 1060 6GB
+DDR4 16 GB RAM
+NVME SSD
+
+Everything is working, even hibernation :)
